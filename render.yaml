@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: Ikhsan-Web
+    env: docker
+    region: Singapore 
+    plan: free
